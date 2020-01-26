@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.storiesofthedeadmocap.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "G:\\My Drive\\MFADT\\Fall 2019\\MoCap for AR & VR\\Final Project - MoCap (Stories of the Dead)\\Unity Files\\Stories of the dead - MoCap\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Stories of the dead - MoCap [Testing]"
+        }
+      }
+    }
+  ]
+}

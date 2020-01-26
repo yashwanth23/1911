@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 48a75cfbc9f1642e8870b0c3a095c919
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kat_Head
+    100004: Kat_Hips
+    100006: Kat_LeftArm
+    100008: Kat_LeftFoot
+    100010: Kat_LeftForeArm
+    100012: Kat_LeftHand
+    100014: Kat_LeftHandIndex1
+    100016: Kat_LeftHandIndex2
+    100018: Kat_LeftHandIndex3
+    100020: Kat_LeftHandMiddle1
+    100022: Kat_LeftHandMiddle2
+    100024: Kat_LeftHandMiddle3
+    100026: Kat_LeftHandPinky1
+    100028: Kat_LeftHandPinky2
+    100030: Kat_LeftHandPinky3
+    100032: Kat_LeftHandRing1
+    100034: Kat_LeftHandRing2
+    100036: Kat_LeftHandRing3
+    100038: Kat_LeftHandThumb1
+    100040: Kat_LeftHandThumb2
+    100042: Kat_LeftHandThumb3
+    100044: Kat_LeftLeg
+    100046: Kat_LeftShoulder
+    100048: Kat_LeftToeBase
+    100050: Kat_LeftUpLeg
+    100052: Kat_Neck
+    100054: Kat_RightArm
+    100056: Kat_RightFoot
+    100058: Kat_RightForeArm
+    100060: Kat_RightHand
+    100062: Kat_RightHandIndex1
+    100064: Kat_RightHandIndex2
+    100066: Kat_RightHandIndex3
+    100068: Kat_RightHandMiddle1
+    100070: Kat_RightHandMiddle2
+    100072: Kat_RightHandMiddle3
+    100074: Kat_RightHandPinky1
+    100076: Kat_RightHandPinky2
+    100078: Kat_RightHandPinky3
+    100080: Kat_RightHandRing1
+    100082: Kat_RightHandRing2
+    100084: Kat_RightHandRing3
+    100086: Kat_RightHandThumb1
+    100088: Kat_RightHandThumb2
+    100090: Kat_RightHandThumb3
+    100092: Kat_RightLeg
+    100094: Kat_RightShoulder
+    100096: Kat_RightToeBase
+    100098: Kat_RightUpLeg
+    100100: Kat_Spine
+    100102: Kat_Spine1
+    400000: //RootNode
+    400002: Kat_Head
+    400004: Kat_Hips
+    400006: Kat_LeftArm
+    400008: Kat_LeftFoot
+    400010: Kat_LeftForeArm
+    400012: Kat_LeftHand
+    400014: Kat_LeftHandIndex1
+    400016: Kat_LeftHandIndex2
+    400018: Kat_LeftHandIndex3
+    400020: Kat_LeftHandMiddle1
+    400022: Kat_LeftHandMiddle2
+    400024: Kat_LeftHandMiddle3
+    400026: Kat_LeftHandPinky1
+    400028: Kat_LeftHandPinky2
+    400030: Kat_LeftHandPinky3
+    400032: Kat_LeftHandRing1
+    400034: Kat_LeftHandRing2
+    400036: Kat_LeftHandRing3
+    400038: Kat_LeftHandThumb1
+    400040: Kat_LeftHandThumb2
+    400042: Kat_LeftHandThumb3
+    400044: Kat_LeftLeg
+    400046: Kat_LeftShoulder
+    400048: Kat_LeftToeBase
+    400050: Kat_LeftUpLeg
+    400052: Kat_Neck
+    400054: Kat_RightArm
+    400056: Kat_RightFoot
+    400058: Kat_RightForeArm
+    400060: Kat_RightHand
+    400062: Kat_RightHandIndex1
+    400064: Kat_RightHandIndex2
+    400066: Kat_RightHandIndex3
+    400068: Kat_RightHandMiddle1
+    400070: Kat_RightHandMiddle2
+    400072: Kat_RightHandMiddle3
+    400074: Kat_RightHandPinky1
+    400076: Kat_RightHandPinky2
+    400078: Kat_RightHandPinky3
+    400080: Kat_RightHandRing1
+    400082: Kat_RightHandRing2
+    400084: Kat_RightHandRing3
+    400086: Kat_RightHandThumb1
+    400088: Kat_RightHandThumb2
+    400090: Kat_RightHandThumb3
+    400092: Kat_RightLeg
+    400094: Kat_RightShoulder
+    400096: Kat_RightToeBase
+    400098: Kat_RightUpLeg
+    400100: Kat_Spine
+    400102: Kat_Spine1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

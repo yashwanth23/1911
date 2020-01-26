@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 0a563d7b56ae72c4faf4e1f281b8a4c5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kat_Head
+    100004: Kat_Hips
+    100006: Kat_LeftArm
+    100008: Kat_LeftFoot
+    100010: Kat_LeftForeArm
+    100012: Kat_LeftHand
+    100014: Kat_LeftHandIndex1
+    100016: Kat_LeftHandIndex2
+    100018: Kat_LeftHandIndex3
+    100020: Kat_LeftHandMiddle1
+    100022: Kat_LeftHandMiddle2
+    100024: Kat_LeftHandMiddle3
+    100026: Kat_LeftHandPinky1
+    100028: Kat_LeftHandPinky2
+    100030: Kat_LeftHandPinky3
+    100032: Kat_LeftHandRing1
+    100034: Kat_LeftHandRing2
+    100036: Kat_LeftHandRing3
+    100038: Kat_LeftHandThumb1
+    100040: Kat_LeftHandThumb2
+    100042: Kat_LeftHandThumb3
+    100044: Kat_LeftLeg
+    100046: Kat_LeftShoulder
+    100048: Kat_LeftToeBase
+    100050: Kat_LeftUpLeg
+    100052: Kat_Neck
+    100054: Kat_RightArm
+    100056: Kat_RightFoot
+    100058: Kat_RightForeArm
+    100060: Kat_RightHand
+    100062: Kat_RightHandIndex1
+    100064: Kat_RightHandIndex2
+    100066: Kat_RightHandIndex3
+    100068: Kat_RightHandMiddle1
+    100070: Kat_RightHandMiddle2
+    100072: Kat_RightHandMiddle3
+    100074: Kat_RightHandPinky1
+    100076: Kat_RightHandPinky2
+    100078: Kat_RightHandPinky3
+    100080: Kat_RightHandRing1
+    100082: Kat_RightHandRing2
+    100084: Kat_RightHandRing3
+    100086: Kat_RightHandThumb1
+    100088: Kat_RightHandThumb2
+    100090: Kat_RightHandThumb3
+    100092: Kat_RightLeg
+    100094: Kat_RightShoulder
+    100096: Kat_RightToeBase
+    100098: Kat_RightUpLeg
+    100100: Kat_Spine
+    100102: Kat_Spine1
+    400000: //RootNode
+    400002: Kat_Head
+    400004: Kat_Hips
+    400006: Kat_LeftArm
+    400008: Kat_LeftFoot
+    400010: Kat_LeftForeArm
+    400012: Kat_LeftHand
+    400014: Kat_LeftHandIndex1
+    400016: Kat_LeftHandIndex2
+    400018: Kat_LeftHandIndex3
+    400020: Kat_LeftHandMiddle1
+    400022: Kat_LeftHandMiddle2
+    400024: Kat_LeftHandMiddle3
+    400026: Kat_LeftHandPinky1
+    400028: Kat_LeftHandPinky2
+    400030: Kat_LeftHandPinky3
+    400032: Kat_LeftHandRing1
+    400034: Kat_LeftHandRing2
+    400036: Kat_LeftHandRing3
+    400038: Kat_LeftHandThumb1
+    400040: Kat_LeftHandThumb2
+    400042: Kat_LeftHandThumb3
+    400044: Kat_LeftLeg
+    400046: Kat_LeftShoulder
+    400048: Kat_LeftToeBase
+    400050: Kat_LeftUpLeg
+    400052: Kat_Neck
+    400054: Kat_RightArm
+    400056: Kat_RightFoot
+    400058: Kat_RightForeArm
+    400060: Kat_RightHand
+    400062: Kat_RightHandIndex1
+    400064: Kat_RightHandIndex2
+    400066: Kat_RightHandIndex3
+    400068: Kat_RightHandMiddle1
+    400070: Kat_RightHandMiddle2
+    400072: Kat_RightHandMiddle3
+    400074: Kat_RightHandPinky1
+    400076: Kat_RightHandPinky2
+    400078: Kat_RightHandPinky3
+    400080: Kat_RightHandRing1
+    400082: Kat_RightHandRing2
+    400084: Kat_RightHandRing3
+    400086: Kat_RightHandThumb1
+    400088: Kat_RightHandThumb2
+    400090: Kat_RightHandThumb3
+    400092: Kat_RightLeg
+    400094: Kat_RightShoulder
+    400096: Kat_RightToeBase
+    400098: Kat_RightUpLeg
+    400100: Kat_Spine
+    400102: Kat_Spine1
+    7400000: Kat waking up
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Bone length in configuration
+      does not match position in animation file:\n\t'Kat_LeftLeg' : position error
+      = 132.149353 mm\n\t'Kat_LeftFoot' : position error = 95.131897 mm\n\t'Kat_RightLeg'
+      : position error = 128.079636 mm\n\t'Kat_RightFoot' : position error = 76.996727
+      mm\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Kat_Spine1' has translation animation that
+      will be discarded.\n\t'Kat_Head' has translation animation that will be discarded.\n\t'Kat_LeftHand'
+      has translation animation that will be discarded.\n\t'Kat_RightHand' has translation
+      animation that will be discarded.\n\t'Kat_LeftFoot' has translation animation
+      that will be discarded.\n\t'Kat_RightFoot' has translation animation that will
+      be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Kat waking up
+      takeName: Take 001
+      firstFrame: 2377
+      lastFrame: 3528
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Kat_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Kat_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Kat - Waking up from a grave(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_Hips
+      parentName: Kat - Waking up from a grave(Clone)
+      position: {x: 0, y: 0.91342145, z: 0}
+      rotation: {x: 0.033006866, y: -0.008688744, z: -0.0017146573, w: 0.9994159}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftUpLeg
+      parentName: Kat_Hips
+      position: {x: -0.089511186, y: 0, z: 0}
+      rotation: {x: 0.08901623, y: 0.03168622, z: 0.0014883608, w: 0.995525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftLeg
+      parentName: Kat_LeftUpLeg
+      position: {x: 0.025, y: -0.382, z: 0.128}
+      rotation: {x: 0.064011656, y: 0.09469975, z: -0.010838832, w: 0.9933866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftFoot
+      parentName: Kat_LeftLeg
+      position: {x: -0.026, y: -0.401, z: 0.09}
+      rotation: {x: -0.12632343, y: -0.1304682, z: 0.017965138, w: 0.9832078}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftToeBase
+      parentName: Kat_LeftFoot
+      position: {x: -0, y: -0.058182266, z: 0.13426678}
+      rotation: {x: 0.0058911885, y: -0.018296875, z: 0.009299905, w: 0.999772}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightUpLeg
+      parentName: Kat_Hips
+      position: {x: 0.089511186, y: 0, z: 0}
+      rotation: {x: 0.072321475, y: -0.022549002, z: 0.05079506, w: 0.99583185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightLeg
+      parentName: Kat_RightUpLeg
+      position: {x: -0.003, y: -0.384, z: 0.126}
+      rotation: {x: 0.07662067, y: -0.012542581, z: 0.0140930135, w: 0.99688184}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightFoot
+      parentName: Kat_RightLeg
+      position: {x: 0.01, y: -0.413, z: 0.076}
+      rotation: {x: -0.08389424, y: 0.061569765, z: -0.010806637, w: 0.994512}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightToeBase
+      parentName: Kat_RightFoot
+      position: {x: -0, y: -0.058182266, z: 0.13426678}
+      rotation: {x: -0.014485925, y: 0.107808344, z: -0.055561714, w: 0.99251217}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_Spine
+      parentName: Kat_Hips
+      position: {x: -0, y: 0.07339917, z: 0}
+      rotation: {x: -0.03700826, y: 0.004883515, z: 0.011131446, w: 0.99924105}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_Spine1
+      parentName: Kat_Spine
+      position: {x: -0.000004053116, y: 0.18344879, z: -0.00003618002}
+      rotation: {x: 0.032774676, y: 0.0016192668, z: -0.017017683, w: 0.9993166}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftShoulder
+      parentName: Kat_Spine1
+      position: {x: -0.0358715, y: 0.16855794, z: -0.0012277924}
+      rotation: {x: 0.019402444, y: -0.045435503, z: -0.15321755, w: 0.9869567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftArm
+      parentName: Kat_LeftShoulder
+      position: {x: -0.12730764, y: 0, z: 0}
+      rotation: {x: -0.015063395, y: 0.00896861, z: 0.15099074, w: 0.9883798}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftForeArm
+      parentName: Kat_LeftArm
+      position: {x: -0.24544364, y: 0, z: 0}
+      rotation: {x: 0.034409046, y: 0.011471775, z: -0.01026281, w: 0.9992894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHand
+      parentName: Kat_LeftForeArm
+      position: {x: -0.27208495, y: 0.002470255, z: -0.002367735}
+      rotation: {x: -0.30215713, y: -0.21266887, z: 0.060917266, w: 0.92723364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandIndex1
+      parentName: Kat_LeftHand
+      position: {x: -0.08056007, y: 0, z: 0.031328917}
+      rotation: {x: -0.123307824, y: 0.1002696, z: -0.044359446, w: 0.9862928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandIndex2
+      parentName: Kat_LeftHandIndex1
+      position: {x: -0.044755593, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandIndex3
+      parentName: Kat_LeftHandIndex2
+      position: {x: -0.022377796, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandMiddle1
+      parentName: Kat_LeftHand
+      position: {x: -0.08056007, y: 0, z: 0.010383297}
+      rotation: {x: -0.08026724, y: 0.09995127, z: -0.056185424, w: 0.99015665}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandMiddle2
+      parentName: Kat_LeftHandMiddle1
+      position: {x: -0.049231153, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandMiddle3
+      parentName: Kat_LeftHandMiddle2
+      position: {x: -0.026853353, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandPinky1
+      parentName: Kat_LeftHand
+      position: {x: -0.071608946, y: 0, z: -0.031328917}
+      rotation: {x: 0, y: -0, z: -0.033119995, w: 0.9994514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandPinky2
+      parentName: Kat_LeftHandPinky1
+      position: {x: -0.035804473, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandPinky3
+      parentName: Kat_LeftHandPinky2
+      position: {x: -0.017902236, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandRing1
+      parentName: Kat_LeftHand
+      position: {x: -0.07608451, y: 0, z: -0.010383297}
+      rotation: {x: -0.041621134, y: 0.08777736, z: -0.072932236, w: 0.9925944}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandRing2
+      parentName: Kat_LeftHandRing1
+      position: {x: -0.044755593, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandRing3
+      parentName: Kat_LeftHandRing2
+      position: {x: -0.022377796, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandThumb1
+      parentName: Kat_LeftHand
+      position: {x: -0.013426676, y: -0.022377796, z: 0.044755593}
+      rotation: {x: -0.37655374, y: 0.21698248, z: 0.36880016, w: 0.8216522}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandThumb2
+      parentName: Kat_LeftHandThumb1
+      position: {x: -0.026853353, y: 0, z: 0}
+      rotation: {x: 0.000000059604616, y: -0.03704221, z: 0.00000063329907, w: 0.9993138}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_LeftHandThumb3
+      parentName: Kat_LeftHandThumb2
+      position: {x: -0.026853353, y: 0, z: 0}
+      rotation: {x: 0, y: -0.25881907, z: -0, w: 0.9659258}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_Neck
+      parentName: Kat_Spine1
+      position: {x: -0, y: 0.21057142, z: 0}
+      rotation: {x: -0.006044215, y: 0.022775462, z: 0.028471813, w: 0.9993168}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_Head
+      parentName: Kat_Neck
+      position: {x: -0, y: 0.13874234, z: 0.017902236}
+      rotation: {x: 0.105216734, y: 0.034508064, z: -0.054231793, w: 0.99236965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightShoulder
+      parentName: Kat_Spine1
+      position: {x: 0.035735972, y: 0.16855794, z: -0.0012277924}
+      rotation: {x: 0.022365993, y: 0.07159695, z: 0.14133824, w: 0.98711556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightArm
+      parentName: Kat_RightShoulder
+      position: {x: 0.12730764, y: 0, z: 0}
+      rotation: {x: -0.06333132, y: -0.025530875, z: -0.13192642, w: 0.98890483}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightForeArm
+      parentName: Kat_RightArm
+      position: {x: 0.24544364, y: 0, z: 0}
+      rotation: {x: 0.10899169, y: 0.0014490669, z: -0.010335886, w: 0.9939879}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHand
+      parentName: Kat_RightForeArm
+      position: {x: 0.2401104, y: 0.0026279688, z: -0.0008484125}
+      rotation: {x: -0.31151527, y: 0.16159897, z: 0.018151088, w: 0.9362236}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandIndex1
+      parentName: Kat_RightHand
+      position: {x: 0.08056007, y: 0, z: 0.031328917}
+      rotation: {x: 0.010005024, y: -0.0674856, z: -0.07073211, w: 0.9951596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandIndex2
+      parentName: Kat_RightHandIndex1
+      position: {x: 0.044755593, y: 0, z: 0}
+      rotation: {x: 0.00000004749744, y: -0.00000023841852, z: -0.011899541, w: 0.99992925}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandIndex3
+      parentName: Kat_RightHandIndex2
+      position: {x: 0.022377796, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.3120449, w: 0.9500674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandMiddle1
+      parentName: Kat_RightHand
+      position: {x: 0.08056007, y: 0, z: 0.010383297}
+      rotation: {x: 0.0049924836, y: -0.060939714, z: -0.07354134, w: 0.9954161}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandMiddle2
+      parentName: Kat_RightHandMiddle1
+      position: {x: 0.049231153, y: 0, z: 0}
+      rotation: {x: -0.00000048801286, y: 0.000001959502, z: -0.017337972, w: 0.99984974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandMiddle3
+      parentName: Kat_RightHandMiddle2
+      position: {x: 0.026853353, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.2599406, w: 0.96562463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandPinky1
+      parentName: Kat_RightHand
+      position: {x: 0.071608946, y: 0, z: -0.031328917}
+      rotation: {x: -0.0051508234, y: -0.03350293, z: -0.07331051, w: 0.996733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandPinky2
+      parentName: Kat_RightHandPinky1
+      position: {x: 0.035804473, y: 0, z: 0}
+      rotation: {x: 0.00000035343683, y: -0.0000013820824, z: -0.028045157, w: 0.99960667}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandPinky3
+      parentName: Kat_RightHandPinky2
+      position: {x: 0.017902236, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.15195386, w: 0.98838764}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandRing1
+      parentName: Kat_RightHand
+      position: {x: 0.07608451, y: 0, z: -0.010383297}
+      rotation: {x: 0.0000737011, y: -0.05059916, z: -0.07548863, w: 0.995862}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandRing2
+      parentName: Kat_RightHandRing1
+      position: {x: 0.044755593, y: 0, z: 0}
+      rotation: {x: 0.0000010744985, y: -0.000001508742, z: -0.022775326, w: 0.99974066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandRing3
+      parentName: Kat_RightHandRing2
+      position: {x: 0.022377796, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.20706767, w: 0.9783266}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandThumb1
+      parentName: Kat_RightHand
+      position: {x: 0.013426676, y: -0.022377796, z: 0.044755593}
+      rotation: {x: -0.20394354, y: -0.2948025, z: -0.28702262, w: 0.88832235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandThumb2
+      parentName: Kat_RightHandThumb1
+      position: {x: 0.026853353, y: 0, z: 0}
+      rotation: {x: -0.00000007450579, y: 0.041059572, z: 0.0000003874301, w: 0.9991568}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kat_RightHandThumb3
+      parentName: Kat_RightHandThumb2
+      position: {x: 0.026853353, y: 0, z: 0}
+      rotation: {x: 0, y: 0.102387935, z: -0, w: 0.9947446}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

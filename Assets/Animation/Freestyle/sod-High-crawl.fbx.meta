@@ -1,0 +1,901 @@
+fileFormatVersion: 2
+guid: 895e62d25e2a44756b582a5454360859
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Akshansh_Head
+    100004: Akshansh_Hips
+    100006: Akshansh_LeftArm
+    100008: Akshansh_LeftFoot
+    100010: Akshansh_LeftForeArm
+    100012: Akshansh_LeftHand
+    100014: Akshansh_LeftHandIndex1
+    100016: Akshansh_LeftHandIndex2
+    100018: Akshansh_LeftHandIndex3
+    100020: Akshansh_LeftHandMiddle1
+    100022: Akshansh_LeftHandMiddle2
+    100024: Akshansh_LeftHandMiddle3
+    100026: Akshansh_LeftHandPinky1
+    100028: Akshansh_LeftHandPinky2
+    100030: Akshansh_LeftHandPinky3
+    100032: Akshansh_LeftHandRing1
+    100034: Akshansh_LeftHandRing2
+    100036: Akshansh_LeftHandRing3
+    100038: Akshansh_LeftHandThumb1
+    100040: Akshansh_LeftHandThumb2
+    100042: Akshansh_LeftHandThumb3
+    100044: Akshansh_LeftLeg
+    100046: Akshansh_LeftShoulder
+    100048: Akshansh_LeftToeBase
+    100050: Akshansh_LeftUpLeg
+    100052: Akshansh_Neck
+    100054: Akshansh_RightArm
+    100056: Akshansh_RightFoot
+    100058: Akshansh_RightForeArm
+    100060: Akshansh_RightHand
+    100062: Akshansh_RightHandIndex1
+    100064: Akshansh_RightHandIndex2
+    100066: Akshansh_RightHandIndex3
+    100068: Akshansh_RightHandMiddle1
+    100070: Akshansh_RightHandMiddle2
+    100072: Akshansh_RightHandMiddle3
+    100074: Akshansh_RightHandPinky1
+    100076: Akshansh_RightHandPinky2
+    100078: Akshansh_RightHandPinky3
+    100080: Akshansh_RightHandRing1
+    100082: Akshansh_RightHandRing2
+    100084: Akshansh_RightHandRing3
+    100086: Akshansh_RightHandThumb1
+    100088: Akshansh_RightHandThumb2
+    100090: Akshansh_RightHandThumb3
+    100092: Akshansh_RightLeg
+    100094: Akshansh_RightShoulder
+    100096: Akshansh_RightToeBase
+    100098: Akshansh_RightUpLeg
+    100100: Akshansh_Spine
+    100102: Akshansh_Spine1
+    400000: //RootNode
+    400002: Akshansh_Head
+    400004: Akshansh_Hips
+    400006: Akshansh_LeftArm
+    400008: Akshansh_LeftFoot
+    400010: Akshansh_LeftForeArm
+    400012: Akshansh_LeftHand
+    400014: Akshansh_LeftHandIndex1
+    400016: Akshansh_LeftHandIndex2
+    400018: Akshansh_LeftHandIndex3
+    400020: Akshansh_LeftHandMiddle1
+    400022: Akshansh_LeftHandMiddle2
+    400024: Akshansh_LeftHandMiddle3
+    400026: Akshansh_LeftHandPinky1
+    400028: Akshansh_LeftHandPinky2
+    400030: Akshansh_LeftHandPinky3
+    400032: Akshansh_LeftHandRing1
+    400034: Akshansh_LeftHandRing2
+    400036: Akshansh_LeftHandRing3
+    400038: Akshansh_LeftHandThumb1
+    400040: Akshansh_LeftHandThumb2
+    400042: Akshansh_LeftHandThumb3
+    400044: Akshansh_LeftLeg
+    400046: Akshansh_LeftShoulder
+    400048: Akshansh_LeftToeBase
+    400050: Akshansh_LeftUpLeg
+    400052: Akshansh_Neck
+    400054: Akshansh_RightArm
+    400056: Akshansh_RightFoot
+    400058: Akshansh_RightForeArm
+    400060: Akshansh_RightHand
+    400062: Akshansh_RightHandIndex1
+    400064: Akshansh_RightHandIndex2
+    400066: Akshansh_RightHandIndex3
+    400068: Akshansh_RightHandMiddle1
+    400070: Akshansh_RightHandMiddle2
+    400072: Akshansh_RightHandMiddle3
+    400074: Akshansh_RightHandPinky1
+    400076: Akshansh_RightHandPinky2
+    400078: Akshansh_RightHandPinky3
+    400080: Akshansh_RightHandRing1
+    400082: Akshansh_RightHandRing2
+    400084: Akshansh_RightHandRing3
+    400086: Akshansh_RightHandThumb1
+    400088: Akshansh_RightHandThumb2
+    400090: Akshansh_RightHandThumb3
+    400092: Akshansh_RightLeg
+    400094: Akshansh_RightShoulder
+    400096: Akshansh_RightToeBase
+    400098: Akshansh_RightUpLeg
+    400100: Akshansh_Spine
+    400102: Akshansh_Spine1
+    7400000: sod-high-crawl
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Akshansh_Spine1' has translation animation
+      that will be discarded.\n\t'Akshansh_Head' has translation animation that will
+      be discarded.\n\t'Akshansh_LeftHand' has translation animation that will be
+      discarded.\n\t'Akshansh_RightHand' has translation animation that will be discarded.\n\t'Akshansh_LeftFoot'
+      has translation animation that will be discarded.\n\t'Akshansh_RightFoot' has
+      translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: sod-high-crawl
+      takeName: Take 001
+      firstFrame: 5227
+      lastFrame: 6247
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Akshansh_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Akshansh_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Aksh - Walking randomly (not in T pose)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_Hips
+      parentName: Aksh - Walking randomly (not in T pose)(Clone)
+      position: {x: 0, y: 0.8532077, z: 0}
+      rotation: {x: 0.009758591, y: 0.04494267, z: 0.004118232, w: 0.9989335}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftUpLeg
+      parentName: Akshansh_Hips
+      position: {x: -0.09080063, y: 0, z: 0}
+      rotation: {x: -0.045359284, y: 0.04720828, z: -0.05930965, w: 0.99609053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftLeg
+      parentName: Akshansh_LeftUpLeg
+      position: {x: -0, y: -0.39133444, z: 0}
+      rotation: {x: 0.20327632, y: 0.075184256, z: 0.17226864, w: 0.96091086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftFoot
+      parentName: Akshansh_LeftLeg
+      position: {x: 0.0025764704, y: -0.3701502, z: -0.0040501356}
+      rotation: {x: -0.039291173, y: -0.33892465, z: 0.0065183653, w: 0.9399701}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftToeBase
+      parentName: Akshansh_LeftFoot
+      position: {x: -0, y: -0.059020404, z: 0.13620095}
+      rotation: {x: 0.019347727, y: -0.076243095, z: -0.0012835131, w: 0.99690074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightUpLeg
+      parentName: Akshansh_Hips
+      position: {x: 0.09080063, y: 0, z: 0}
+      rotation: {x: 0.003869642, y: -0.06386305, z: 0.026710149, w: 0.9975937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightLeg
+      parentName: Akshansh_RightUpLeg
+      position: {x: -0, y: -0.39133444, z: 0}
+      rotation: {x: 0.11825448, y: -0.03213126, z: -0.052324615, w: 0.991083}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightFoot
+      parentName: Akshansh_RightLeg
+      position: {x: -0.0018666387, y: -0.38539845, z: -0.000844717}
+      rotation: {x: -0.09162866, y: -0.0023041817, z: 0.07071831, w: 0.99327636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightToeBase
+      parentName: Akshansh_RightFoot
+      position: {x: -0, y: -0.059020404, z: 0.13620095}
+      rotation: {x: 0.0030185326, y: 0.0063669197, z: -0.0058935205, w: 0.9999578}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_Spine
+      parentName: Akshansh_Hips
+      position: {x: -0, y: 0.074456505, z: 0}
+      rotation: {x: -0.030778294, y: -0.04881692, z: -0.024359781, w: 0.9980362}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_Spine1
+      parentName: Akshansh_Spine
+      position: {x: -0.000009924173, y: 0.17816871, z: 0.000007390976}
+      rotation: {x: 0.05140302, y: -0.01625594, z: 0.037058808, w: 0.9978578}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftShoulder
+      parentName: Akshansh_Spine1
+      position: {x: -0.03680861, y: 0.15948159, z: -0.002081275}
+      rotation: {x: 0.093780264, y: -0.03913956, z: -0.029551035, w: 0.9943843}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftArm
+      parentName: Akshansh_LeftShoulder
+      position: {x: -0.12581669, y: 0, z: 0}
+      rotation: {x: 0.16602097, y: 0.06134545, z: 0.0037405104, w: 0.98420525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftForeArm
+      parentName: Akshansh_LeftArm
+      position: {x: -0.2852766, y: 0, z: 0}
+      rotation: {x: -0.003450109, y: 0.017958457, z: -0.002682626, w: 0.9998292}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHand
+      parentName: Akshansh_LeftForeArm
+      position: {x: -0.19536331, y: 0.00036931038, z: 0.00342381}
+      rotation: {x: 0.049568266, y: -0.13607585, z: 0.034389738, w: 0.98885983}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandIndex1
+      parentName: Akshansh_LeftHand
+      position: {x: -0.08172057, y: 0, z: 0.03178022}
+      rotation: {x: -0.0058858986, y: 0.035565246, z: 0.07360473, w: 0.99663574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandIndex2
+      parentName: Akshansh_LeftHandIndex1
+      position: {x: -0.045400314, y: 0, z: 0}
+      rotation: {x: 0.00000043213356, y: 0.0000016838308, z: 0.027224578, w: 0.9996294}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandIndex3
+      parentName: Akshansh_LeftHandIndex2
+      position: {x: -0.022700157, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.1632727, w: 0.986581}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandMiddle1
+      parentName: Akshansh_LeftHand
+      position: {x: -0.08172057, y: 0, z: 0.010532873}
+      rotation: {x: -0.0024756966, y: 0.022777393, z: 0.06998379, w: 0.99728495}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandMiddle2
+      parentName: Akshansh_LeftHandMiddle1
+      position: {x: -0.04994034, y: 0, z: 0}
+      rotation: {x: -0.000000025145692, y: 0.00000048242475, z: 0.032478873, w: 0.99947244}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandMiddle3
+      parentName: Akshansh_LeftHandMiddle2
+      position: {x: -0.027240185, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.10966365, w: 0.9939688}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandPinky1
+      parentName: Akshansh_LeftHand
+      position: {x: -0.0726405, y: 0, z: -0.03178022}
+      rotation: {x: 0, y: -0, z: -0.0048889127, w: 0.9999881}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandPinky2
+      parentName: Akshansh_LeftHandPinky1
+      position: {x: -0.03632025, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandPinky3
+      parentName: Akshansh_LeftHandPinky2
+      position: {x: -0.018160125, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandRing1
+      parentName: Akshansh_LeftHand
+      position: {x: -0.077180535, y: 0, z: -0.010532873}
+      rotation: {x: 0, y: 0, z: 0.052511495, w: 0.99862033}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandRing2
+      parentName: Akshansh_LeftHandRing1
+      position: {x: -0.045400314, y: 0, z: 0}
+      rotation: {x: -0.00000003214895, y: 0.0000008074644, z: 0.038031954, w: 0.9992766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandRing3
+      parentName: Akshansh_LeftHandRing2
+      position: {x: -0.022700157, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.055733465, w: 0.9984457}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandThumb1
+      parentName: Akshansh_LeftHand
+      position: {x: -0.0136200925, y: -0.022700157, z: 0.045400314}
+      rotation: {x: 0.08985942, y: 0.27219066, z: -0.26459652, w: 0.9207748}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandThumb2
+      parentName: Akshansh_LeftHandThumb1
+      position: {x: -0.027240185, y: 0, z: 0}
+      rotation: {x: 0.00000008195634, y: -0.039672337, z: -0.00000019744027, w: 0.99921274}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_LeftHandThumb3
+      parentName: Akshansh_LeftHandThumb2
+      position: {x: -0.027240185, y: 0, z: 0}
+      rotation: {x: 0, y: -0.15723212, z: -0, w: 0.9875617}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_Neck
+      parentName: Akshansh_Spine1
+      position: {x: -0, y: 0.20095529, z: 0}
+      rotation: {x: 0.08919664, y: -0.020561494, z: 0.019873386, w: 0.9956035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_Head
+      parentName: Akshansh_Neck
+      position: {x: 0.00000011920929, y: 0.13856578, z: 0.017882586}
+      rotation: {x: -0.102745354, y: -0.02651757, z: 0.065402195, w: 0.99220103}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightShoulder
+      parentName: Akshansh_Spine1
+      position: {x: 0.03577423, y: 0.15948159, z: -0.002081275}
+      rotation: {x: 0.11970106, y: -0.032381214, z: -0.02130778, w: 0.992053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightArm
+      parentName: Akshansh_RightShoulder
+      position: {x: 0.12581669, y: 0, z: 0}
+      rotation: {x: -0.055384856, y: 0.041281845, z: -0.012575131, w: 0.99753207}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightForeArm
+      parentName: Akshansh_RightArm
+      position: {x: 0.2852766, y: 0, z: 0}
+      rotation: {x: -0.09229668, y: -0.03172271, z: 0.004804866, w: 0.9952146}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHand
+      parentName: Akshansh_RightForeArm
+      position: {x: 0.2166525, y: 0.00013101101, z: 0.00068092346}
+      rotation: {x: 0.03330248, y: 0.11674614, z: 0.059626, w: 0.9908108}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandIndex1
+      parentName: Akshansh_RightHand
+      position: {x: 0.08172057, y: 0, z: 0.03178022}
+      rotation: {x: -0.0063282, y: -0.03668536, z: -0.07370859, w: 0.9965848}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandIndex2
+      parentName: Akshansh_RightHandIndex1
+      position: {x: 0.045400314, y: 0, z: 0}
+      rotation: {x: 0.00000033853567, y: -0.0000015348193, z: -0.026545877, w: 0.9996477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandIndex3
+      parentName: Akshansh_RightHandIndex2
+      position: {x: 0.022700157, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.16998236, w: 0.9854471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandMiddle1
+      parentName: Akshansh_RightHand
+      position: {x: 0.08172057, y: 0, z: 0.010532873}
+      rotation: {x: -0.004450998, y: -0.03126197, z: -0.0728567, w: 0.99684244}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandMiddle2
+      parentName: Akshansh_RightHandMiddle1
+      position: {x: 0.04994034, y: 0, z: 0}
+      rotation: {x: -0.00000021141007, y: -0.00000042840807, z: -0.02921165, w: 0.9995733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandMiddle3
+      parentName: Akshansh_RightHandMiddle2
+      position: {x: 0.027240185, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.14095134, w: 0.9900165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandPinky1
+      parentName: Akshansh_RightHand
+      position: {x: 0.0726405, y: 0, z: -0.03178022}
+      rotation: {x: -0.0010951641, y: -0.013366024, z: -0.064762026, w: 0.9978107}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandPinky2
+      parentName: Akshansh_RightHandPinky1
+      position: {x: 0.03632025, y: 0, z: 0}
+      rotation: {x: 0.00000027345942, y: -0.0000025387837, z: -0.035381477, w: 0.9993739}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandPinky3
+      parentName: Akshansh_RightHandPinky2
+      position: {x: 0.018160125, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.08166166, w: 0.9966601}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandRing1
+      parentName: Akshansh_RightHand
+      position: {x: 0.077180535, y: 0, z: -0.010532873}
+      rotation: {x: -0.0026889285, y: -0.02390152, z: -0.07046582, w: 0.9972242}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandRing2
+      parentName: Akshansh_RightHandRing1
+      position: {x: 0.045400314, y: 0, z: 0}
+      rotation: {x: -0.00000012316734, y: -0.00000011920922, z: -0.032260787, w: 0.99947953}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandRing3
+      parentName: Akshansh_RightHandRing2
+      position: {x: 0.022700157, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.111798555, w: 0.9937309}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandThumb1
+      parentName: Akshansh_RightHand
+      position: {x: 0.0136200925, y: -0.022700157, z: 0.045400314}
+      rotation: {x: 0.016051449, y: -0.3834673, z: 0.03803056, w: 0.9226315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandThumb2
+      parentName: Akshansh_RightHandThumb1
+      position: {x: 0.027240185, y: 0, z: 0}
+      rotation: {x: 0, y: 0.03244542, z: -0, w: 0.9994735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Akshansh_RightHandThumb3
+      parentName: Akshansh_RightHandThumb2
+      position: {x: 0.027240185, y: 0, z: 0}
+      rotation: {x: 0, y: 0.064856686, z: -0, w: 0.99789464}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
